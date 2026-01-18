@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jawad
 
-Founder & Full-Stack Engineer with strong SDE and SDET experience.
+Founder of SyncShire & Full-Stack Engineer with strong SDE and SDET experience.
 I build scalable web platforms, compliance systems, and Test automation infra.
 
 ### 🔧 Tech Focus
@@ -22,5 +22,5 @@ Connect Me On
 📫 LinkedIn: [<link>  ](https://www.linkedin.com/in/jawad-arshad-khan-23a131174/)
 📧 **Email:** [arshad.jak97@gmail.com](mailto:arshad.jak97@gmail.com)
 
-Check the products i developen on
-[🌐](https://syncshire.com)
+Check the products i developed on
+🌐 Website: [syncshire.com](https://syncshire.com)
