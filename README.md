@@ -1,5 +1,9 @@
 ## 👋 Hi, I'm Jawad
 
+![Profile Views](https://komarev.com/ghpvc/?username=jawad-arshad-khan97&style=flat&color=blue)
+[![Follow on GitHub](https://img.shields.io/github/followers/jawad-arshad-khan97?label=Follow&style=social)](https://github.com/jawad-arshad-khan97)
+
+
 Founder of SyncShire & Full-Stack Engineer with strong SDE and SDET experience.
 I build scalable web platforms, compliance systems, and Test automation infra.
 
