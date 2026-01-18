@@ -20,7 +20,7 @@ I build scalable web platforms, compliance systems, and Test automation infra.
 
 Connect Me On
 📫 LinkedIn: [<link>  ](https://www.linkedin.com/in/jawad-arshad-khan-23a131174/)
-📧 **Email:** [arshad.jak97@gmail.com](mailto:arshad.jak97@gmail.com)
+📧 **Email:** [jawad.khan@syncshire.com](mailto:jawad.khan@syncshire.com)
 
 Check the products i developed on
 🌐 Website: [syncshire.com](https://syncshire.com)
