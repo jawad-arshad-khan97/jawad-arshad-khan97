@@ -15,8 +15,8 @@ I build scalable web platforms, compliance systems, and Test automation infra.
 - AI-assisted development
 
 ### 🚀 Featured Work
-- ZATCA-Compliant E-Invoicing Platform    - [Live Demo]([[https://your-live-site.com](https://www.youtube.com/watch?v=gyzjmgTF4ew&t=1s)](https://www.youtube.com/watch?v=gyzjmgTF4ew&t=1s))
-- **Full-Stack CRM & E-Commerce Systems** — [Live Demo]([[https://your-live-site.com](https://e-commerce-xi-ten-34.vercel.app/)](https://e-commerce-xi-ten-34.vercel.app/))
+- ZATCA-Compliant E-Invoicing Platform — [Live Demo](https://www.youtube.com/watch?v=gyzjmgTF4ew&t=1s)
+- Full-Stack CRM & E-Commerce Systems — [Live Demo](https://e-commerce-xi-ten-34.vercel.app/)
 - Enterprise Test Automation Frameworks
 
 
